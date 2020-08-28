@@ -1,0 +1,9 @@
+lastUpgrade=00957
+proj.pluginVersion=0.9.57
+proj.AppId=611109472326
+and.BundleId=com.giovannibozzano.crosscolor
+proj.classDir=Assets%2fScripts
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e611109472326%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.giovannibozzano.crosscolor%3c%2fstring%3e%0d%0a++%3c%21--+achievement+1000+--%3e%0d%0a++%3cstring+name%3d%22achievement_1000%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+500+--%3e%0d%0a++%3cstring+name%3d%22achievement_500%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+200+--%3e%0d%0a++%3cstring+name%3d%22achievement_200%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+100+--%3e%0d%0a++%3cstring+name%3d%22achievement_100%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Faster+than+light+--%3e%0d%0a++%3cstring+name%3d%22achievement_faster_than_light%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Leaderboard+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22+translatable%3d%22false%22%3eCgkIxpDax-QREAIQCQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=611109472326-8mea0nbpl6l9is5h405hjivi4vl1m2us.apps.googleusercontent.com
+android.SetupDone=true
